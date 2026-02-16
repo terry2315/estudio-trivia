@@ -74,6 +74,10 @@ body {
     padding: 1rem;
 }
 
+.subtitle {
+    text-transform: capitalize;
+}
+
 .conetnt__card {
     margin: 1rem 0;
     padding: 1rem;
