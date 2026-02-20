@@ -104,10 +104,16 @@ body {
     justify-content: center;
     align-items: center;
     text-align: center;
+    padding: 2rem 0;
+    border-bottom: 1px solid var(--color-third);
+}
+
+.list__text--questions {
+    font-weight: bold;
+    width: 100%;
 }
 
 .list__text {
     width: 100%;
     padding: 2rem 0;
-    border-bottom: 1px solid var(--color-third);
 }

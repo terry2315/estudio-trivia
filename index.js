@@ -21,9 +21,17 @@ function renderQuestion(quest) {
         const lista = document.createElement('li');
         lista.classList.add('list__question');
         lista.innerHTML = `
-             <p class="list__text">${quest.question}</p>
+            <p class="list__text--questions">${quest.question}</p>
+            <p class="list__text--">A)  ${quest.options[0]}</p>
+            <p class="list__text--">B)  ${quest.options[1]}</p>
+            <p class="list__text--">C)  ${quest.options[2]}</p>
+            <p class="list__text--">D)  ${quest.options[3]}</p>
+
+
+
+
         `;
-        console.log(quest.question)
+        console.log(quest.options)
         contentList.append(lista)
     })
 }
