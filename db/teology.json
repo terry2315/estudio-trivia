@@ -1,0 +1,112 @@
+[
+  {
+    "category": "teologia",
+    "titles": [
+      {
+        "nameTitle": "genesis",
+        "levels": [
+          {
+            "idStage": 1,
+            "nameStage": "Historia Primitiva (Capitulos 1-11)"
+          },
+          {
+            "idStage": 2,
+            "nameStage": "El Patriarca Abraham (Capitulos 12-25:11)"
+          },
+          {
+            "idStage": 3,
+            "nameStage": "Isaac y Jacob (Capitulos 25:12-36)"
+          },
+          {
+            "idStage": 4,
+            "nameStage": "La Historia de José (Capitulos 37-50)"
+          }
+        ]
+      },
+      {
+        "nameTitle": "exodo",
+        "levels": [
+          {
+            "idStage": 1,
+            "nameStage": "Liberación en Egipto (Capítulos 1-13)"
+          },
+          {
+            "idStage": 2,
+            "nameStage": "Travesía por el Desierto (Capítulos 14-18)"
+          },
+          {
+            "idStage": 3,
+            "nameStage": "El Pacto en el Sinaí (Capítulos 19-24)"
+          },
+          {
+            "idStage": 4,
+            "nameStage": "El Tabernáculo y la Presencia (Capítulos 25-40)"
+          }
+        ]
+      },
+      {
+        "nameTitle": "levitico",
+        "levels": [
+          {
+            "idStage": 1,
+            "nameStage": "El Camino a Dios: Los Sacrificios (Capítulos 1-7)"
+          },
+          {
+            "idStage": 2,
+            "nameStage": "Los Mediadores: El Sacerdocio (Capítulos 8-10)"
+          },
+          {
+            "idStage": 3,
+            "nameStage": "Pureza en la Vida Diaria (Capítulos 11-22)"
+          },
+          {
+            "idStage": 4,
+            "nameStage": "El Calendario de Dios: Fiestas y Votos (Capítulos 23-27)"
+          }
+        ]
+      },
+      {
+        "nameTitle": "numero",
+        "levels": [
+          {
+            "idStage": 1,
+            "nameStage": "El Gran Fracaso en Cades-barnea (Capítulos 1-14)"
+          },
+          {
+            "idStage": 2,
+            "nameStage": "Vagando por el Desierto (Capítulos 15-25)"
+          },
+          {
+            "idStage": 3,
+            "nameStage": "Preparación para la Tierra Prometida (Capítulos 26-36)"
+          },
+          {
+            "idStage": 4,
+            "nameStage": "Organización y Censo Final"
+          }
+        ]
+      },
+      {
+        "nameTitle": "deuteronomio",
+        "levels": [
+          {
+            "idStage": 1,
+            "nameStage": "Mirando hacia atrás: El Repaso Histórico (Capítulos 1-4)"
+          },
+          {
+            "idStage": 2,
+            "nameStage": "Mirando hacia arriba: El Corazón de la Ley (Capítulos 5-11)"
+          },
+          {
+            "idStage": 3,
+            "nameStage": "Mirando hacia adentro: Santidad en la Tierra (Capítulos 12-26)"
+          },
+          {
+            "idStage": 4,
+            "nameStage": "Mirando hacia adelante: El Destino y la Despedida (Capítulos 27-34)"
+          }
+        ]
+      }
+    ]
+  }
+]

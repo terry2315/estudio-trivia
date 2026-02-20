@@ -1,0 +1,1802 @@
+[
+    {
+        "idQuestion": 1,
+        "category": "teologia",
+        "question": "¿Qué creó Dios en el primer día?",
+        "biblicalText": "Y dijo Dios: Sea la luz; y fue la luz. (Génesis 1:3)",
+        "options": [
+            "Los animales",
+            "El sol y la luna",
+            "La luz",
+            "El hombre"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "facil",
+        "numberQuestion": 1
+    },
+    {
+        "idQuestion": 1,
+        "category": "teologia",
+        "question": "¿Qué separó Dios en el segundo día?",
+        "biblicalText": "E hizo Dios la expansión, y separó las aguas que estaban debajo de la expansión, de las aguas que estaban sobre la expansión. (Génesis 1:7)",
+        "options": [
+            "La tierra y los animales",
+            "Las aguas de arriba y las aguas de abajo",
+            "La luz y las tinieblas",
+            "El hombre y la mujer"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "dificil",
+        "numberQuestion": 2
+    },
+    {
+        "idQuestion": 1,
+        "category": "teologia",
+        "question": "¿En qué día creó Dios al hombre?",
+        "biblicalText": "Y vio Dios todo lo que había hecho, y he aquí que era bueno en gran manera. Y fue la tarde y la mañana el día sexto. (Génesis 1:31)",
+        "options": [
+            "Día 3",
+            "Día 4",
+            "Día 5",
+            "Día 6"
+        ],
+        "correctAnswer": 3,
+        "difficulty": "facil",
+        "numberQuestion": 3
+    },
+    {
+        "idQuestion": 1,
+        "category": "teologia",
+        "question": "¿A imagen de quién fue creado el hombre?",
+        "biblicalText": "Y creó Dios al hombre a su imagen, a imagen de Dios lo creó; varón y hembra los creó. (Génesis 1:27)",
+        "options": [
+            "De los ángeles",
+            "De los animales",
+            "De Dios",
+            "De la tierra"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "facil",
+        "numberQuestion": 4
+    },
+    {
+        "idQuestion": 1,
+        "category": "teologia",
+        "question": "¿Cómo se llamó el primer hombre?",
+        "biblicalText": "Y puso Adán nombre a toda bestia y ave de los cielos y a todo ganado del campo... (Génesis 2:20)",
+        "options": [
+            "Noé",
+            "Caín",
+            "Adán",
+            "Abraham"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "facil",
+        "numberQuestion": 5
+    },
+    {
+        "idQuestion": 1,
+        "category": "historia-primitiva",
+        "question": "¿Qué hizo Dios después de terminar la creación?",
+        "biblicalText": "Y reposó el día séptimo de toda la obra que hizo. (Génesis 2:2)",
+        "options": [
+            "Creó más ángeles",
+            "Reposó",
+            "Destruyó la tierra",
+            "Formó otra humanidad"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "facil",
+        "numberQuestion": 6
+    },
+    {
+        "idQuestion": 1,
+        "category": "historia-primitiva",
+        "question": "¿De qué fue formado Adán?",
+        "biblicalText": "Entonces Jehová Dios formó al hombre del polvo de la tierra. (Génesis 2:7)",
+        "options": [
+            "Del agua",
+            "Del barro cocido",
+            "Del polvo de la tierra",
+            "De una roca"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "facil",
+        "numberQuestion": 7
+    },
+    {
+        "idQuestion": 1,
+        "category": "historia-primitiva",
+        "question": "¿De qué parte de Adán fue formada Eva?",
+        "biblicalText": "Tomó una de sus costillas. (Génesis 2:21)",
+        "options": [
+            "De su brazo",
+            "De su costilla",
+            "De su cabeza",
+            "De su pie"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "facil",
+        "numberQuestion": 8
+    },
+    {
+        "idQuestion": 1,
+        "category": "historia-primitiva",
+        "question": "¿Qué consecuencia inmediata tuvo el pecado de Adán y Eva?",
+        "biblicalText": "Y fueron abiertos los ojos de ambos. (Génesis 3:7)",
+        "options": [
+            "Murieron instantáneamente",
+            "Se hicieron invisibles",
+            "Conocieron que estaban desnudos",
+            "Olvidaron a Dios"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "dificil",
+        "numberQuestion": 9
+    },
+    {
+        "idQuestion": 1,
+        "category": "historia-primitiva",
+        "question": "¿Quién fue el primer hijo de Adán y Eva?",
+        "biblicalText": "Y conoció Adán a su mujer Eva, la cual concibió y dio a luz a Caín. (Génesis 4:1)",
+        "options": [
+            "Abel",
+            "Set",
+            "Caín",
+            "Enoc"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "facil",
+        "numberQuestion": 10
+    },
+    {
+        "idQuestion": 1,
+        "category": "historia-primitiva",
+        "question": "¿Qué profesión tenía Abel?",
+        "biblicalText": "Abel fue pastor de ovejas. (Génesis 4:2)",
+        "options": [
+            "Agricultor",
+            "Pastor de ovejas",
+            "Carpintero",
+            "Cazador"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "facil",
+        "numberQuestion": 11
+    },
+    {
+        "idQuestion": 1,
+        "category": "historia-primitiva",
+        "question": "¿Por qué fue rechazada la ofrenda de Caín?",
+        "biblicalText": "Pero no miró con agrado a Caín y a su ofrenda. (Génesis 4:5)",
+        "options": [
+            "Era demasiado pequeña",
+            "No fue presentada con fe correcta",
+            "Era ilegal",
+            "Era robada"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "extremo",
+        "numberQuestion": 12
+    },
+    {
+        "idQuestion": 1,
+        "category": "historia-primitiva",
+        "question": "¿Qué hizo Caín con Abel?",
+        "biblicalText": "Y aconteció que estando ellos en el campo, Caín se levantó contra su hermano Abel, y lo mató. (Génesis 4:8)",
+        "options": [
+            "Lo expulsó",
+            "Lo vendió",
+            "Lo mató",
+            "Lo perdonó"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "facil",
+        "numberQuestion": 13
+    },
+    {
+        "idQuestion": 1,
+        "category": "historia-primitiva",
+        "question": "¿Quién halló gracia ante los ojos de Dios antes del diluvio?",
+        "biblicalText": "Pero Noé halló gracia ante los ojos de Jehová. (Génesis 6:8)",
+        "options": [
+            "Enoc",
+            "Noé",
+            "Lamec",
+            "Set"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "facil",
+        "numberQuestion": 14
+    },
+    {
+        "idQuestion": 1,
+        "category": "historia-primitiva",
+        "question": "¿Por qué decidió Dios enviar el diluvio?",
+        "biblicalText": "Vio Jehová que la maldad de los hombres era mucha. (Génesis 6:5)",
+        "options": [
+            "Por hambre",
+            "Por idolatría",
+            "Por la maldad del hombre",
+            "Por sequía"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "facil",
+        "numberQuestion": 15
+    },
+    {
+        "idQuestion": 1,
+        "category": "historia-primitiva",
+        "question": "¿Cuántos días llovió durante el diluvio?",
+        "biblicalText": "Y hubo lluvia sobre la tierra cuarenta días y cuarenta noches. (Génesis 7:12)",
+        "options": [
+            "7 días",
+            "30 días",
+            "40 días y 40 noches",
+            "100 días"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "dificil",
+        "numberQuestion": 16
+    },
+    {
+        "idQuestion": 1,
+        "category": "historia-primitiva",
+        "question": "¿Cuántas personas fueron salvadas en el arca?",
+        "biblicalText": "Entraron en el arca Noé, sus hijos, su mujer y las mujeres de sus hijos. (Génesis 7:7)",
+        "options": [
+            "6",
+            "7",
+            "8",
+            "10"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "dificil",
+        "numberQuestion": 17
+    },
+    {
+        "idQuestion": 1,
+        "category": "historia-primitiva",
+        "question": "¿Qué señal dio Dios como pacto después del diluvio?",
+        "biblicalText": "Mi arco he puesto en las nubes. (Génesis 9:13)",
+        "options": [
+            "Una estrella",
+            "El arco iris",
+            "Una nube",
+            "Un altar"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "facil",
+        "numberQuestion": 18
+    },
+    {
+        "idQuestion": 1,
+        "category": "historia-primitiva",
+        "question": "¿Qué hijo de Noé vio la desnudez de su padre?",
+        "biblicalText": "Y Cam, padre de Canaán, vio la desnudez de su padre. (Génesis 9:22)",
+        "options": [
+            "Sem",
+            "Jafet",
+            "Cam",
+            "Arfaxad"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "dificil",
+        "numberQuestion": 19
+    },
+    {
+        "idQuestion": 1,
+        "category": "historia-primitiva",
+        "question": "¿Qué construyeron los hombres en Babel?",
+        "biblicalText": "Edifiquémonos una ciudad y una torre cuya cúspide llegue al cielo. (Génesis 11:4)",
+        "options": [
+            "Un templo",
+            "Un palacio",
+            "Una torre",
+            "Un altar"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "facil",
+        "numberQuestion": 20
+    },
+    {
+        "idQuestion": 1,
+        "category": "historia-primitiva",
+        "question": "¿Qué hizo Dios para detener la construcción de Babel?",
+        "biblicalText": "Confundamos allí su lengua. (Génesis 11:7)",
+        "options": [
+            "Envió fuego",
+            "Envió un diluvio",
+            "Confundió sus lenguas",
+            "Destruyó la ciudad"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "facil",
+        "numberQuestion": 21
+    },
+    {
+        "idQuestion": 1,
+        "category": "historia-primitiva",
+        "question": "¿Cómo se llamó el lugar donde se confundieron las lenguas?",
+        "biblicalText": "Por esto fue llamado el nombre de ella Babel. (Génesis 11:9)",
+        "options": [
+            "Jerusalén",
+            "Ur",
+            "Babel",
+            "Edén"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "facil",
+        "numberQuestion": 22
+    },
+    {
+        "idQuestion": 1,
+        "category": "historia-primitiva",
+        "question": "¿Qué propósito tenían los constructores de Babel?",
+        "biblicalText": "Hagámonos un nombre. (Génesis 11:4)",
+        "options": [
+            "Adorar a Dios",
+            "Hacerse un nombre",
+            "Buscar refugio",
+            "Construir un templo santo"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "dificil",
+        "numberQuestion": 23
+    },
+    {
+        "idQuestion": 1,
+        "category": "historia-primitiva",
+        "question": "¿Qué árbol representaba la vida eterna en el Edén?",
+        "biblicalText": "También el árbol de vida en medio del huerto. (Génesis 2:9)",
+        "options": [
+            "Árbol del bien y del mal",
+            "Árbol de vida",
+            "Árbol del conocimiento",
+            "Árbol del pacto"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "dificil",
+        "numberQuestion": 24
+    },
+    {
+        "idQuestion": 1,
+        "category": "historia-primitiva",
+        "question": "¿Qué hizo Dios con Adán y Eva después de pecar?",
+        "biblicalText": "Y los sacó Jehová del huerto del Edén. (Génesis 3:23)",
+        "options": [
+            "Los perdonó y dejó allí",
+            "Los convirtió en ángeles",
+            "Los expulsó del Edén",
+            "Los ocultó"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "facil",
+        "numberQuestion": 25
+    },
+    {
+        "idQuestion": 1,
+        "category": "historia-primitiva",
+        "question": "¿Quién caminó con Dios y desapareció porque Dios se lo llevó?",
+        "biblicalText": "Caminó, pues, Enoc con Dios, y desapareció. (Génesis 5:24)",
+        "options": [
+            "Noé",
+            "Enoc",
+            "Set",
+            "Lamec"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "dificil",
+        "numberQuestion": 26
+    },
+    {
+        "idQuestion": 1,
+        "category": "historia-primitiva",
+        "question": "¿Qué mandó Dios reunir en el arca?",
+        "biblicalText": "De todo ser viviente, de toda carne, dos de cada especie. (Génesis 6:19)",
+        "options": [
+            "Solo animales limpios",
+            "Dos de cada especie",
+            "Solo aves",
+            "Solo ganado"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "facil",
+        "numberQuestion": 27
+    },
+    {
+        "idQuestion": 1,
+        "category": "historia-primitiva",
+        "question": "¿Qué sacrificó Noé al salir del arca?",
+        "biblicalText": "Y edificó Noé un altar a Jehová. (Génesis 8:20)",
+        "options": [
+            "Frutos",
+            "Ovejas",
+            "Animales limpios",
+            "Granos"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "dificil",
+        "numberQuestion": 28
+    },
+    {
+        "idQuestion": 1,
+        "category": "historia-primitiva",
+        "question": "¿Qué prometió Dios respecto a las estaciones después del diluvio?",
+        "biblicalText": "Mientras la tierra permanezca, no cesarán la sementera y la siega. (Génesis 8:22)",
+        "options": [
+            "Que no habría invierno",
+            "Que no cesarían las estaciones",
+            "Que no habría lluvia",
+            "Que no habría calor"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "extremo",
+        "numberQuestion": 29
+    },
+    {
+        "idQuestion": 1,
+        "category": "historia-primitiva",
+        "question": "¿Qué idioma hablaba toda la tierra antes de Babel?",
+        "biblicalText": "Tenía entonces toda la tierra una sola lengua. (Génesis 11:1)",
+        "options": [
+            "Hebreo",
+            "Arameo",
+            "Una sola lengua",
+            "Egipcio"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "facil",
+        "numberQuestion": 30
+    },
+    {
+        "idQuestion": 2,
+        "category": "patriarca-abraham",
+        "question": "¿De dónde llamó Dios a Abram para salir?",
+        "biblicalText": "Vete de tu tierra y de tu parentela. (Génesis 12:1)",
+        "options": [
+            "Egipto",
+            "Babel",
+            "Ur de los caldeos",
+            "Canaán"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "facil",
+        "numberQuestion": 31
+    },
+    {
+        "idQuestion": 2,
+        "category": "patriarca-abraham",
+        "question": "¿Qué prometió Dios darle a Abram?",
+        "biblicalText": "A la tierra que te mostraré. (Génesis 12:1)",
+        "options": [
+            "Un reino inmediato",
+            "Una tierra prometida",
+            "Un ejército",
+            "Un templo"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "facil",
+        "numberQuestion": 32
+    },
+    {
+        "idQuestion": 2,
+        "category": "patriarca-abraham",
+        "question": "¿Cómo se llamaba la esposa de Abram?",
+        "biblicalText": "Pero Sarai era estéril. (Génesis 11:30)",
+        "options": [
+            "Rebeca",
+            "Lea",
+            "Sarai",
+            "Raquel"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "facil",
+        "numberQuestion": 33
+    },
+    {
+        "idQuestion": 2,
+        "category": "patriarca-abraham",
+        "question": "¿Qué le prometió Dios acerca de la descendencia de Abram?",
+        "biblicalText": "Haré de ti una nación grande. (Génesis 12:2)",
+        "options": [
+            "Que sería rey inmediato",
+            "Que tendría muchos hijos como las estrellas",
+            "Que sería sacerdote",
+            "Que no tendría hijos"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "dificil",
+        "numberQuestion": 34
+    },
+    {
+        "idQuestion": 2,
+        "category": "patriarca-abraham",
+        "question": "¿Qué nombre nuevo recibió Abram?",
+        "biblicalText": "Y no se llamará más tu nombre Abram, sino Abraham. (Génesis 17:5)",
+        "options": [
+            "Israel",
+            "Abraham",
+            "Isaac",
+            "Jacob"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "facil",
+        "numberQuestion": 35
+    },
+    {
+        "idQuestion": 2,
+        "category": "patriarca-abraham",
+        "question": "¿Qué señal física estableció Dios como pacto con Abraham?",
+        "biblicalText": "Este es mi pacto... será circuncidado todo varón. (Génesis 17:10)",
+        "options": [
+            "Sacrificio diario",
+            "Diezmo",
+            "Circuncisión",
+            "Ayuno"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "dificil",
+        "numberQuestion": 36
+    },
+    {
+        "idQuestion": 2,
+        "category": "patriarca-abraham",
+        "question": "¿Cómo se llamó el hijo que Abraham tuvo con Agar?",
+        "biblicalText": "Y llamó Abram el nombre de su hijo... Ismael. (Génesis 16:15)",
+        "options": [
+            "Isaac",
+            "Ismael",
+            "Esaú",
+            "Lot"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "facil",
+        "numberQuestion": 37
+    },
+    {
+        "idQuestion": 2,
+        "category": "patriarca-abraham",
+        "question": "¿Quién era Lot para Abraham?",
+        "biblicalText": "Y tomó Abram a Lot hijo de su hermano. (Génesis 12:5)",
+        "options": [
+            "Su hijo",
+            "Su sobrino",
+            "Su primo",
+            "Su hermano"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "facil",
+        "numberQuestion": 38
+    },
+    {
+        "idQuestion": 2,
+        "category": "patriarca-abraham",
+        "question": "¿A qué ciudad fue llevado Lot después de separarse de Abraham?",
+        "biblicalText": "Fue poniendo sus tiendas hasta Sodoma. (Génesis 13:12)",
+        "options": [
+            "Jerusalén",
+            "Sodoma",
+            "Betel",
+            "Hebrón"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "facil",
+        "numberQuestion": 39
+    },
+    {
+        "idQuestion": 2,
+        "category": "patriarca-abraham",
+        "question": "¿Qué hizo Abraham cuando Dios le pidió sacrificar a Isaac?",
+        "biblicalText": "Y se levantó Abraham muy de mañana. (Génesis 22:3)",
+        "options": [
+            "Desobedeció",
+            "Oró por días",
+            "Obedeció inmediatamente",
+            "Huyó"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "dificil",
+        "numberQuestion": 40
+    },
+    {
+        "idQuestion": 2,
+        "category": "patriarca-abraham",
+        "question": "¿En qué monte fue probado Abraham con Isaac?",
+        "biblicalText": "Sobre uno de los montes que yo te diré. (Génesis 22:2)",
+        "options": [
+            "Sinaí",
+            "Carmelo",
+            "Moriah",
+            "Tabor"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "dificil",
+        "numberQuestion": 41
+    },
+    {
+        "idQuestion": 2,
+        "category": "patriarca-abraham",
+        "question": "¿Qué proveyó Dios en lugar de Isaac?",
+        "biblicalText": "Un carnero trabado en un zarzal. (Génesis 22:13)",
+        "options": [
+            "Un cordero",
+            "Un carnero",
+            "Una paloma",
+            "Un toro"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "facil",
+        "numberQuestion": 42
+    },
+    {
+        "idQuestion": 2,
+        "category": "patriarca-abraham",
+        "question": "¿Cómo llamó Abraham al lugar donde Dios proveyó?",
+        "biblicalText": "Y llamó Abraham el nombre de aquel lugar, Jehová proveerá. (Génesis 22:14)",
+        "options": [
+            "Betel",
+            "Jehová proveerá",
+            "Hebrón",
+            "Moriah"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "dificil",
+        "numberQuestion": 43
+    },
+    {
+        "idQuestion": 2,
+        "category": "patriarca-abraham",
+        "question": "¿Qué edad tenía Abraham cuando nació Isaac?",
+        "biblicalText": "Era Abraham de cien años cuando nació Isaac. (Génesis 21:5)",
+        "options": [
+            "75 años",
+            "90 años",
+            "100 años",
+            "120 años"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "dificil",
+        "numberQuestion": 44
+    },
+    {
+        "idQuestion": 2,
+        "category": "patriarca-abraham",
+        "question": "¿Qué le dijo Dios que serían sus descendientes en número?",
+        "biblicalText": "Mira ahora los cielos y cuenta las estrellas. (Génesis 15:5)",
+        "options": [
+            "Como la arena y las estrellas",
+            "Como los peces",
+            "Como las montañas",
+            "Como los árboles"
+        ],
+        "correctAnswer": 0,
+        "difficulty": "extremo",
+        "numberQuestion": 45
+    },
+    {
+        "idQuestion": 2,
+        "category": "patriarca-abraham",
+        "question": "¿Quién se rió cuando escuchó que tendría un hijo?",
+        "biblicalText": "Se rió Sara dentro de sí. (Génesis 18:12)",
+        "options": [
+            "Agar",
+            "Rebeca",
+            "Sara",
+            "Lea"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "facil",
+        "numberQuestion": 46
+    },
+    {
+        "idQuestion": 2,
+        "category": "patriarca-abraham",
+        "question": "¿Qué ciudad fue destruida por su maldad mientras Lot vivía allí?",
+        "biblicalText": "Entonces Jehová hizo llover sobre Sodoma y sobre Gomorra azufre y fuego. (Génesis 19:24)",
+        "options": [
+            "Jericó",
+            "Sodoma",
+            "Babel",
+            "Nínive"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "facil",
+        "numberQuestion": 47
+    },
+    {
+        "idQuestion": 2,
+        "category": "patriarca-abraham",
+        "question": "¿Qué le ocurrió a la esposa de Lot?",
+        "biblicalText": "Entonces la mujer de Lot miró atrás... y se volvió estatua de sal. (Génesis 19:26)",
+        "options": [
+            "Murió por fuego",
+            "Se convirtió en sal",
+            "Fue salvada",
+            "Desapareció"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "facil",
+        "numberQuestion": 48
+    },
+    {
+        "idQuestion": 2,
+        "category": "patriarca-abraham",
+        "question": "¿Dónde enterró Abraham a Sara?",
+        "biblicalText": "En la cueva de Macpela. (Génesis 23:19)",
+        "options": [
+            "En Egipto",
+            "En Ur",
+            "En la cueva de Macpela",
+            "En Betel"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "dificil",
+        "numberQuestion": 49
+    },
+    {
+        "idQuestion": 2,
+        "category": "patriarca-abraham",
+        "question": "¿Cuántos años vivió Abraham?",
+        "biblicalText": "Y fueron los días que vivió Abraham ciento setenta y cinco años. (Génesis 25:7)",
+        "options": [
+            "150",
+            "175",
+            "180",
+            "120"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "extremo",
+        "numberQuestion": 50
+    },
+    {
+        "idQuestion": 2,
+        "category": "patriarca-abraham",
+        "question": "¿Quién fue el siervo enviado a buscar esposa para Isaac?",
+        "biblicalText": "Y dijo Abraham a un criado suyo, el más viejo de su casa. (Génesis 24:2)",
+        "options": [
+            "Lot",
+            "Eliezer de Damasco",
+            "Ismael",
+            "Abner"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "dificil",
+        "numberQuestion": 51
+    },
+    {
+        "idQuestion": 2,
+        "category": "patriarca-abraham",
+        "question": "¿Qué señal pidió el siervo para identificar a la esposa correcta para Isaac?",
+        "biblicalText": "La joven a quien yo dijere: Baja tu cántaro... y ella respondiere: Bebe, y también daré de beber a tus camellos. (Génesis 24:14)",
+        "options": [
+            "Que cantara",
+            "Que ofreciera agua a él y a los camellos",
+            "Que fuera rica",
+            "Que fuera hija de rey"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "extremo",
+        "numberQuestion": 52
+    },
+    {
+        "idQuestion": 2,
+        "category": "patriarca-abraham",
+        "question": "¿Cómo se llamaba la mujer escogida para Isaac?",
+        "biblicalText": "Y la doncella se llamaba Rebeca. (Génesis 24:15)",
+        "options": [
+            "Sara",
+            "Lea",
+            "Rebeca",
+            "Raquel"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "facil",
+        "numberQuestion": 53
+    },
+    {
+        "idQuestion": 2,
+        "category": "patriarca-abraham",
+        "question": "¿Quién era el hermano de Rebeca?",
+        "biblicalText": "Y tenía Rebeca un hermano que se llamaba Labán. (Génesis 24:29)",
+        "options": [
+            "Lot",
+            "Ismael",
+            "Labán",
+            "Esaú"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "dificil",
+        "numberQuestion": 54
+    },
+    {
+        "idQuestion": 2,
+        "category": "patriarca-abraham",
+        "question": "¿Qué hizo Rebeca cuando vio a Isaac por primera vez?",
+        "biblicalText": "Entonces ella tomó el velo y se cubrió. (Génesis 24:65)",
+        "options": [
+            "Corrió hacia él",
+            "Se cubrió con un velo",
+            "Huyó",
+            "Le habló primero"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "dificil",
+        "numberQuestion": 55
+    },
+    {
+        "idQuestion": 2,
+        "category": "patriarca-abraham",
+        "question": "¿Cómo consoló Isaac la muerte de su madre?",
+        "biblicalText": "Y la amó; y se consoló Isaac después de la muerte de su madre. (Génesis 24:67)",
+        "options": [
+            "Viajando",
+            "Casándose con Rebeca",
+            "Ayunando",
+            "Mudándose"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "dificil",
+        "numberQuestion": 56
+    },
+    {
+        "idQuestion": 2,
+        "category": "patriarca-abraham",
+        "question": "¿Qué hizo Abraham con los hijos de sus concubinas?",
+        "biblicalText": "Y a los hijos de sus concubinas dio Abraham dones, y los envió lejos. (Génesis 25:6)",
+        "options": [
+            "Los hizo herederos principales",
+            "Los envió lejos con regalos",
+            "Los dejó en Canaán",
+            "Los vendió"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "extremo",
+        "numberQuestion": 57
+    },
+    {
+        "idQuestion": 2,
+        "category": "patriarca-abraham",
+        "question": "¿Quiénes enterraron a Abraham?",
+        "biblicalText": "Y lo sepultaron Isaac e Ismael sus hijos. (Génesis 25:9)",
+        "options": [
+            "Isaac y Lot",
+            "Isaac e Ismael",
+            "Ismael y Labán",
+            "Rebeca y Sara"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "dificil",
+        "numberQuestion": 58
+    },
+    {
+        "idQuestion": 2,
+        "category": "patriarca-abraham",
+        "question": "¿Dónde fue sepultado Abraham?",
+        "biblicalText": "En la cueva de Macpela. (Génesis 25:9)",
+        "options": [
+            "En Egipto",
+            "En Ur",
+            "En la cueva de Macpela",
+            "En Betel"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "facil",
+        "numberQuestion": 59
+    },
+    {
+        "idQuestion": 2,
+        "category": "patriarca-abraham",
+        "question": "¿A quién confirmó Dios la bendición después de la muerte de Abraham?",
+        "biblicalText": "Y sucedió después de la muerte de Abraham, que Dios bendijo a Isaac su hijo. (Génesis 25:11)",
+        "options": [
+            "Ismael",
+            "Lot",
+            "Isaac",
+            "Labán"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "facil",
+        "numberQuestion": 60
+    },
+    {
+        "idQuestion": 3,
+        "category": "isaac-jacob",
+        "question": "¿Quiénes fueron los hijos gemelos de Isaac y Rebeca?",
+        "biblicalText": "Y cuando se cumplieron sus días para dar a luz, he aquí había gemelos en su vientre. (Génesis 25:24)",
+        "options": [
+            "José y Benjamín",
+            "Esaú y Jacob",
+            "Ismael e Isaac",
+            "Rubén y Simeón"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "facil",
+        "numberQuestion": 61
+    },
+    {
+        "idQuestion": 3,
+        "category": "isaac-jacob",
+        "question": "¿Quién nació primero, Esaú o Jacob?",
+        "biblicalText": "Salió el primero rubio... y llamaron su nombre Esaú. (Génesis 25:25)",
+        "options": [
+            "Jacob",
+            "Esaú",
+            "Nacieron al mismo tiempo",
+            "No se menciona"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "facil",
+        "numberQuestion": 62
+    },
+    {
+        "idQuestion": 3,
+        "category": "isaac-jacob",
+        "question": "¿Qué vendió Esaú a Jacob?",
+        "biblicalText": "He aquí yo me voy a morir; ¿para qué, pues, me servirá la primogenitura? (Génesis 25:32)",
+        "options": [
+            "Su herencia",
+            "Su túnica",
+            "Su primogenitura",
+            "Su ganado"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "facil",
+        "numberQuestion": 63
+    },
+    {
+        "idQuestion": 3,
+        "category": "isaac-jacob",
+        "question": "¿Por qué comida vendió Esaú su primogenitura?",
+        "biblicalText": "Y Jacob dio a Esaú pan y del guisado de las lentejas. (Génesis 25:34)",
+        "options": [
+            "Pan y carne",
+            "Lentejas",
+            "Fruta",
+            "Vino"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "facil",
+        "numberQuestion": 64
+    },
+    {
+        "idQuestion": 3,
+        "category": "isaac-jacob",
+        "question": "¿Quién ayudó a Jacob a engañar a Isaac para recibir la bendición?",
+        "biblicalText": "Rebeca habló a Jacob su hijo. (Génesis 27:6)",
+        "options": [
+            "Lea",
+            "Raquel",
+            "Rebeca",
+            "Sara"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "dificil",
+        "numberQuestion": 65
+    },
+    {
+        "idQuestion": 3,
+        "category": "isaac-jacob",
+        "question": "¿Qué puso Jacob en sus brazos para parecer velludo como Esaú?",
+        "biblicalText": "Y cubrió sus manos y la parte de su cuello con pieles de los cabritos. (Génesis 27:16)",
+        "options": [
+            "Lana",
+            "Pieles de cabrito",
+            "Tela gruesa",
+            "Polvo"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "dificil",
+        "numberQuestion": 66
+    },
+    {
+        "idQuestion": 3,
+        "category": "isaac-jacob",
+        "question": "¿A dónde huyó Jacob después de engañar a Isaac?",
+        "biblicalText": "Y huyó Jacob... a Harán. (Génesis 27:43)",
+        "options": [
+            "Egipto",
+            "Harán",
+            "Babel",
+            "Hebrón"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "facil",
+        "numberQuestion": 67
+    },
+    {
+        "idQuestion": 3,
+        "category": "isaac-jacob",
+        "question": "¿Qué vio Jacob en su sueño en Betel?",
+        "biblicalText": "Y soñó: y he aquí una escalera que estaba apoyada en tierra. (Génesis 28:12)",
+        "options": [
+            "Un ángel caído",
+            "Una escalera al cielo",
+            "Un templo",
+            "Un río"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "facil",
+        "numberQuestion": 68
+    },
+    {
+        "idQuestion": 3,
+        "category": "isaac-jacob",
+        "question": "¿Qué prometió Dios a Jacob en Betel?",
+        "biblicalText": "La tierra en que estás acostado te la daré a ti y a tu descendencia. (Génesis 28:13)",
+        "options": [
+            "Riquezas inmediatas",
+            "Protección y tierra",
+            "Un ejército",
+            "Un palacio"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "dificil",
+        "numberQuestion": 69
+    },
+    {
+        "idQuestion": 3,
+        "category": "isaac-jacob",
+        "question": "¿Con quién trabajó Jacob durante años para casarse?",
+        "biblicalText": "Serviré siete años por Raquel tu hija menor. (Génesis 29:18)",
+        "options": [
+            "Esaú",
+            "Labán",
+            "Faraón",
+            "Ismael"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "facil",
+        "numberQuestion": 70
+    },
+    {
+        "idQuestion": 3,
+        "category": "isaac-jacob",
+        "question": "¿Cuántos años trabajó Jacob por Raquel en total?",
+        "biblicalText": "Así sirvió Jacob por Raquel siete años. (Génesis 29:20)",
+        "options": [
+            "7",
+            "14",
+            "20",
+            "10"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "dificil",
+        "numberQuestion": 71
+    },
+    {
+        "idQuestion": 3,
+        "category": "isaac-jacob",
+        "question": "¿Quién fue dada primero a Jacob en lugar de Raquel?",
+        "biblicalText": "Y sucedió que a la mañana he aquí que era Lea. (Génesis 29:25)",
+        "options": [
+            "Raquel",
+            "Lea",
+            "Bilha",
+            "Zilpa"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "facil",
+        "numberQuestion": 72
+    },
+    {
+        "idQuestion": 3,
+        "category": "isaac-jacob",
+        "question": "¿Cómo se llamó el hijo mayor de Jacob?",
+        "biblicalText": "Y llamó su nombre Rubén. (Génesis 29:32)",
+        "options": [
+            "José",
+            "Rubén",
+            "Judá",
+            "Leví"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "dificil",
+        "numberQuestion": 73
+    },
+    {
+        "idQuestion": 3,
+        "category": "isaac-jacob",
+        "question": "¿Cuántos hijos tuvo Jacob en total?",
+        "biblicalText": "Estos son los hijos de Jacob, doce. (Génesis 35:22)",
+        "options": [
+            "10",
+            "11",
+            "12",
+            "13"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "facil",
+        "numberQuestion": 74
+    },
+    {
+        "idQuestion": 3,
+        "category": "isaac-jacob",
+        "question": "¿Con quién luchó Jacob en Peniel?",
+        "biblicalText": "Y luchó con él un varón hasta que rayaba el alba. (Génesis 32:24)",
+        "options": [
+            "Esaú",
+            "Un ángel/varón divino",
+            "Labán",
+            "Un soldado"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "extremo",
+        "numberQuestion": 75
+    },
+    {
+        "idQuestion": 3,
+        "category": "isaac-jacob",
+        "question": "¿Qué nuevo nombre recibió Jacob?",
+        "biblicalText": "No se dirá más tu nombre Jacob, sino Israel. (Génesis 32:28)",
+        "options": [
+            "Judá",
+            "Israel",
+            "Isaac",
+            "Benjamín"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "facil",
+        "numberQuestion": 76
+    },
+    {
+        "idQuestion": 3,
+        "category": "isaac-jacob",
+        "question": "¿Qué significa Israel según el texto?",
+        "biblicalText": "Porque has luchado con Dios y con los hombres, y has vencido. (Génesis 32:28)",
+        "options": [
+            "Príncipe de paz",
+            "El que lucha con Dios",
+            "Hijo de promesa",
+            "Siervo fiel"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "extremo",
+        "numberQuestion": 77
+    },
+    {
+        "idQuestion": 3,
+        "category": "isaac-jacob",
+        "question": "¿Qué tocó el varón para descoyuntar a Jacob?",
+        "biblicalText": "Tocó en el sitio del encaje de su muslo. (Génesis 32:25)",
+        "options": [
+            "Su hombro",
+            "Su rodilla",
+            "El encaje de su muslo",
+            "Su mano"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "dificil",
+        "numberQuestion": 78
+    },
+    {
+        "idQuestion": 3,
+        "category": "isaac-jacob",
+        "question": "¿Qué hizo Esaú cuando volvió a ver a Jacob?",
+        "biblicalText": "Y Esaú corrió a su encuentro y le abrazó. (Génesis 33:4)",
+        "options": [
+            "Lo atacó",
+            "Lo ignoró",
+            "Lo abrazó",
+            "Lo encarceló"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "facil",
+        "numberQuestion": 79
+    },
+    {
+        "idQuestion": 3,
+        "category": "isaac-jacob",
+        "question": "¿Dónde estableció Jacob un altar al regresar?",
+        "biblicalText": "Y erigió allí un altar, y lo llamó El-Elohe-Israel. (Génesis 33:20)",
+        "options": [
+            "Betel",
+            "Hebrón",
+            "Siquem",
+            "Egipto"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "dificil",
+        "numberQuestion": 80
+    },
+    {
+        "idQuestion": 3,
+        "category": "isaac-jacob",
+        "question": "¿Quién fue el hijo favorito de Jacob?",
+        "biblicalText": "Israel amaba a José más que a todos sus hijos. (Génesis 37:3)",
+        "options": [
+            "Judá",
+            "José",
+            "Rubén",
+            "Benjamín"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "facil",
+        "numberQuestion": 81
+    },
+    {
+        "idQuestion": 3,
+        "category": "isaac-jacob",
+        "question": "¿Qué prenda especial le dio Jacob a José?",
+        "biblicalText": "Le hizo una túnica de diversos colores. (Génesis 37:3)",
+        "options": [
+            "Corona",
+            "Manto real",
+            "Túnica de colores",
+            "Anillo"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "facil",
+        "numberQuestion": 82
+    },
+    {
+        "idQuestion": 3,
+        "category": "isaac-jacob",
+        "question": "¿Qué soñó José acerca de sus hermanos?",
+        "biblicalText": "He aquí que atábamos manojos... y vuestro manojo estaba alrededor y se inclinaba al mío. (Génesis 37:7)",
+        "options": [
+            "Que lo matarían",
+            "Que se inclinarían ante él",
+            "Que lo abandonarían",
+            "Que lo coronarían rey"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "dificil",
+        "numberQuestion": 83
+    },
+    {
+        "idQuestion": 3,
+        "category": "isaac-jacob",
+        "question": "¿Qué otro sueño tuvo José sobre su familia?",
+        "biblicalText": "El sol y la luna y once estrellas se inclinaban a mí. (Génesis 37:9)",
+        "options": [
+            "Un ejército lo seguía",
+            "Las estrellas caían",
+            "Su familia se inclinaba ante él",
+            "Era rey inmediato"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "dificil",
+        "numberQuestion": 84
+    },
+    {
+        "idQuestion": 3,
+        "category": "isaac-jacob",
+        "question": "¿Quién sugirió vender a José en lugar de matarlo?",
+        "biblicalText": "¿Qué provecho hay en que matemos a nuestro hermano...? (Génesis 37:26)",
+        "options": [
+            "Rubén",
+            "Judá",
+            "Simeón",
+            "Leví"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "extremo",
+        "numberQuestion": 85
+    },
+    {
+        "idQuestion": 3,
+        "category": "isaac-jacob",
+        "question": "¿Por cuánto fue vendido José?",
+        "biblicalText": "Y lo vendieron... por veinte piezas de plata. (Génesis 37:28)",
+        "options": [
+            "10 piezas",
+            "20 piezas de plata",
+            "30 piezas",
+            "50 piezas"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "dificil",
+        "numberQuestion": 86
+    },
+    {
+        "idQuestion": 3,
+        "category": "isaac-jacob",
+        "question": "¿A dónde fue llevado José después de ser vendido?",
+        "biblicalText": "Y llevaron a José a Egipto. (Génesis 37:28)",
+        "options": [
+            "Babel",
+            "Asiria",
+            "Egipto",
+            "Canaán"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "facil",
+        "numberQuestion": 87
+    },
+    {
+        "idQuestion": 3,
+        "category": "isaac-jacob",
+        "question": "¿Quién fue el padre de José?",
+        "biblicalText": "Jacob engendró a José. (Génesis 30:24)",
+        "options": [
+            "Isaac",
+            "Abraham",
+            "Jacob",
+            "Esaú"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "facil",
+        "numberQuestion": 88
+    },
+    {
+        "idQuestion": 3,
+        "category": "isaac-jacob",
+        "question": "¿Quién fue el hijo menor de Jacob?",
+        "biblicalText": "Y llamó su nombre Benjamín. (Génesis 35:18)",
+        "options": [
+            "José",
+            "Judá",
+            "Benjamín",
+            "Leví"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "dificil",
+        "numberQuestion": 89
+    },
+    {
+        "idQuestion": 3,
+        "category": "isaac-jacob",
+        "question": "¿Dónde murió Raquel?",
+        "biblicalText": "Y murió Raquel, y fue sepultada en el camino de Efrata. (Génesis 35:19)",
+        "options": [
+            "Betel",
+            "Efrata",
+            "Hebrón",
+            "Harán"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "extremo",
+        "numberQuestion": 90
+    },
+    {
+        "idQuestion": 4,
+        "category": "historia-jose",
+        "question": "¿Cuántos años tenía José cuando apacentaba las ovejas con sus hermanos?",
+        "biblicalText": "José, siendo de edad de diecisiete años, apacentaba las ovejas. (Génesis 37:2)",
+        "options": [
+            "15",
+            "16",
+            "17",
+            "18"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "facil",
+        "numberQuestion": 91
+    },
+    {
+        "idQuestion": 4,
+        "category": "historia-jose",
+        "question": "¿Por qué Jacob amaba más a José que a sus otros hijos?",
+        "biblicalText": "Porque lo había tenido en su vejez. (Génesis 37:3)",
+        "options": [
+            "Era el más fuerte",
+            "Era el primogénito",
+            "Lo tuvo en su vejez",
+            "Era más sabio"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "facil",
+        "numberQuestion": 92
+    },
+    {
+        "idQuestion": 4,
+        "category": "historia-jose",
+        "question": "¿Qué prenda especial le hizo Jacob a José?",
+        "biblicalText": "Y le hizo una túnica de diversos colores. (Génesis 37:3)",
+        "options": [
+            "Un manto real",
+            "Una túnica de colores",
+            "Una capa de lino",
+            "Un cinturón especial"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "facil",
+        "numberQuestion": 93
+    },
+    {
+        "idQuestion": 4,
+        "category": "historia-jose",
+        "question": "¿Qué hacían las gavillas en el sueño de José?",
+        "biblicalText": "Vuestras gavillas estaban alrededor y se inclinaban a la mía. (Génesis 37:7)",
+        "options": [
+            "Se quemaban",
+            "Se inclinaban ante la suya",
+            "Desaparecían",
+            "Se rompían"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "dificil",
+        "numberQuestion": 94
+    },
+    {
+        "idQuestion": 4,
+        "category": "historia-jose",
+        "question": "¿Quién intentó salvar a José cuando sus hermanos quisieron matarlo?",
+        "biblicalText": "Y cuando Rubén oyó esto, lo libró de sus manos. (Génesis 37:21)",
+        "options": [
+            "Judá",
+            "Leví",
+            "Rubén",
+            "Benjamín"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "dificil",
+        "numberQuestion": 95
+    },
+    {
+        "idQuestion": 4,
+        "category": "historia-jose",
+        "question": "¿Por cuántas piezas de plata fue vendido José?",
+        "biblicalText": "Y lo vendieron... por veinte piezas de plata. (Génesis 37:28)",
+        "options": [
+            "10",
+            "20",
+            "30",
+            "40"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "dificil",
+        "numberQuestion": 96
+    },
+    {
+        "idQuestion": 4,
+        "category": "historia-jose",
+        "question": "¿A quién fue vendido José en Egipto?",
+        "biblicalText": "Y lo vendieron a Potifar, oficial de Faraón. (Génesis 37:36)",
+        "options": [
+            "Faraón",
+            "Potifar",
+            "Un mercader",
+            "Un sacerdote"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "facil",
+        "numberQuestion": 97
+    },
+    {
+        "idQuestion": 4,
+        "category": "historia-jose",
+        "question": "¿Qué cargo tenía Potifar?",
+        "biblicalText": "Oficial de Faraón, capitán de la guardia. (Génesis 37:36)",
+        "options": [
+            "Rey",
+            "Capitán de la guardia",
+            "Sacerdote",
+            "Gobernador"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "dificil",
+        "numberQuestion": 98
+    },
+    {
+        "idQuestion": 4,
+        "category": "historia-jose",
+        "question": "¿Qué sucedía en la casa de Potifar cuando José estaba allí?",
+        "biblicalText": "Jehová bendecía la casa del egipcio a causa de José. (Génesis 39:5)",
+        "options": [
+            "Había escasez",
+            "Era atacada",
+            "Era bendecida",
+            "Era abandonada"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "dificil",
+        "numberQuestion": 99
+    },
+    {
+        "idQuestion": 4,
+        "category": "historia-jose",
+        "question": "¿Qué intentó hacer la esposa de Potifar con José?",
+        "biblicalText": "Duerme conmigo. (Génesis 39:7)",
+        "options": [
+            "Robarle",
+            "Acusarlo",
+            "Seduceirlo",
+            "Ayudarlo"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "facil",
+        "numberQuestion": 100
+    },
+    {
+        "idQuestion": 4,
+        "category": "historia-jose",
+        "question": "¿Qué hizo José cuando la esposa de Potifar lo tomó de su ropa?",
+        "biblicalText": "Y dejando su ropa en las manos de ella, huyó. (Génesis 39:12)",
+        "options": [
+            "La empujó",
+            "Huyó dejando su ropa",
+            "La acusó",
+            "Gritó"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "dificil",
+        "numberQuestion": 101
+    },
+    {
+        "idQuestion": 4,
+        "category": "historia-jose",
+        "question": "¿Dónde fue puesto José después de la falsa acusación?",
+        "biblicalText": "Y lo puso en la cárcel. (Génesis 39:20)",
+        "options": [
+            "En el palacio",
+            "En el desierto",
+            "En la cárcel",
+            "En otra ciudad"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "facil",
+        "numberQuestion": 102
+    },
+    {
+        "idQuestion": 4,
+        "category": "historia-jose",
+        "question": "¿Quiénes tuvieron sueños en la cárcel que José interpretó?",
+        "biblicalText": "El jefe de los coperos y el jefe de los panaderos. (Génesis 40:2)",
+        "options": [
+            "Dos soldados",
+            "Dos reyes",
+            "El copero y el panadero",
+            "Dos prisioneros comunes"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "dificil",
+        "numberQuestion": 103
+    },
+    {
+        "idQuestion": 4,
+        "category": "historia-jose",
+        "question": "¿Qué le sucedió al copero después de tres días?",
+        "biblicalText": "Restituirá Faraón tu puesto. (Génesis 40:13)",
+        "options": [
+            "Murió",
+            "Fue liberado",
+            "Fue restituido a su puesto",
+            "Fue desterrado"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "dificil",
+        "numberQuestion": 104
+    },
+    {
+        "idQuestion": 4,
+        "category": "historia-jose",
+        "question": "¿Qué le ocurrió al panadero?",
+        "biblicalText": "Y al jefe de los panaderos hizo ahorcar. (Génesis 40:22)",
+        "options": [
+            "Fue liberado",
+            "Fue castigado",
+            "Fue ahorcado",
+            "Fue ascendido"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "dificil",
+        "numberQuestion": 105
+    },
+    {
+        "idQuestion": 4,
+        "category": "historia-jose",
+        "question": "¿Cuántos años pasaron antes de que Faraón soñara?",
+        "biblicalText": "Aconteció que pasados dos años tuvo Faraón un sueño. (Génesis 41:1)",
+        "options": [
+            "1",
+            "2",
+            "3",
+            "4"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "dificil",
+        "numberQuestion": 106
+    },
+    {
+        "idQuestion": 4,
+        "category": "historia-jose",
+        "question": "¿Cuántas vacas gordas vio Faraón en su sueño?",
+        "biblicalText": "Y he aquí que del río subían siete vacas hermosas. (Génesis 41:2)",
+        "options": [
+            "5",
+            "6",
+            "7",
+            "8"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "facil",
+        "numberQuestion": 107
+    },
+    {
+        "idQuestion": 4,
+        "category": "historia-jose",
+        "question": "¿Qué significaban los siete años de abundancia seguidos de siete años de hambre?",
+        "biblicalText": "He aquí vienen siete años de gran abundancia... y tras ellos seguirán siete años de hambre. (Génesis 41:29-30)",
+        "options": [
+            "Guerra",
+            "Prosperidad eterna",
+            "Abundancia seguida de hambre",
+            "Cambio de rey"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "dificil",
+        "numberQuestion": 108
+    },
+    {
+        "idQuestion": 4,
+        "category": "historia-jose",
+        "question": "¿Qué cargo recibió José después de interpretar el sueño de Faraón?",
+        "biblicalText": "Tú estarás sobre mi casa. (Génesis 41:40)",
+        "options": [
+            "General",
+            "Gobernador segundo después de Faraón",
+            "Sacerdote",
+            "Juez"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "dificil",
+        "numberQuestion": 109
+    },
+    {
+        "idQuestion": 4,
+        "category": "historia-jose",
+        "question": "¿Qué dijo José a sus hermanos sobre el mal que intentaron hacerle?",
+        "biblicalText": "Vosotros pensasteis mal contra mí, mas Dios lo encaminó a bien. (Génesis 50:20)",
+        "options": [
+            "Nunca los perdonó",
+            "Los castigó",
+            "Dios lo transformó en bien",
+            "Los desterró"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "extremo",
+        "numberQuestion": 110
+    },
+    {
+        "idQuestion": 4,
+        "category": "historia-jose",
+        "question": "¿Qué pidió José antes de morir respecto a sus huesos?",
+        "biblicalText": "Haréis llevar de aquí mis huesos. (Génesis 50:25)",
+        "options": [
+            "Que los enterraran en Egipto",
+            "Que los quemaran",
+            "Que los llevaran fuera de Egipto",
+            "Que los entregaran a Faraón"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "extremo",
+        "numberQuestion": 111
+    },
+    {
+        "idQuestion": 4,
+        "category": "historia-jose",
+        "question": "¿Cuántos años vivió José?",
+        "biblicalText": "Y vivió José ciento diez años. (Génesis 50:22)",
+        "options": [
+            "100",
+            "105",
+            "110",
+            "120"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "facil",
+        "numberQuestion": 112
+    },
+    {
+        "idQuestion": 4,
+        "category": "historia-jose",
+        "question": "¿Cómo probaron los hermanos de José que habían cambiado su actitud hacia Benjamín?",
+        "biblicalText": "Tu siervo salió por fiador del joven. (Génesis 44:32)",
+        "options": [
+            "Huyeron",
+            "Judá se ofreció como sustituto",
+            "Mintieron",
+            "Se rebelaron"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "extremo",
+        "numberQuestion": 113
+    },
+    {
+        "idQuestion": 4,
+        "category": "historia-jose",
+        "question": "¿En qué lugar se estableció la familia de Jacob en Egipto?",
+        "biblicalText": "Y habitaron en la tierra de Gosén. (Génesis 47:6)",
+        "options": [
+            "Menfis",
+            "Gosén",
+            "Tebas",
+            "Delta"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "dificil",
+        "numberQuestion": 114
+    },
+    {
+        "idQuestion": 4,
+        "category": "historia-jose",
+        "question": "¿Cuántas personas de la familia de Jacob descendieron a Egipto?",
+        "biblicalText": "Todas las personas... fueron setenta. (Génesis 46:27)",
+        "options": [
+            "60",
+            "65",
+            "70",
+            "75"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "dificil",
+        "numberQuestion": 115
+    },
+    {
+        "idQuestion": 4,
+        "category": "historia-jose",
+        "question": "¿Qué nombre egipcio recibió José?",
+        "biblicalText": "Y llamó Faraón el nombre de José, Zafnat-panea. (Génesis 41:45)",
+        "options": [
+            "Imhotep",
+            "Zafnat-panea",
+            "Ramsés",
+            "Menes"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "extremo",
+        "numberQuestion": 116
+    },
+    {
+        "idQuestion": 4,
+        "category": "historia-jose",
+        "question": "¿Cómo se llamaba la esposa egipcia de José?",
+        "biblicalText": "Y dio a José por mujer a Asenat. (Génesis 41:45)",
+        "options": [
+            "Nefertari",
+            "Asenat",
+            "Hagar",
+            "Miriam"
+        ],
+        "correctAnswer": 1,
+        "difficulty": "extremo",
+        "numberQuestion": 117
+    },
+    {
+        "idQuestion": 4,
+        "category": "historia-jose",
+        "question": "¿Cómo se llamó el primer hijo de José?",
+        "biblicalText": "Y llamó José el nombre del primogénito, Manasés. (Génesis 41:51)",
+        "options": [
+            "Efraín",
+            "Judá",
+            "Manasés",
+            "Rubén"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "dificil",
+        "numberQuestion": 118
+    },
+    {
+        "idQuestion": 4,
+        "category": "historia-jose",
+        "question": "¿Cómo se llamó el segundo hijo de José?",
+        "biblicalText": "Y llamó el nombre del segundo, Efraín. (Génesis 41:52)",
+        "options": [
+            "Leví",
+            "Benjamín",
+            "Efraín",
+            "Dan"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "dificil",
+        "numberQuestion": 119
+    },
+    {
+        "idQuestion": 4,
+        "category": "historia-jose",
+        "question": "¿Qué hizo José con el dinero del pueblo durante los años de hambre?",
+        "biblicalText": "Y recogió José todo el dinero que se halló en la tierra de Egipto. (Génesis 47:14)",
+        "options": [
+            "Lo devolvió",
+            "Lo escondió",
+            "Lo recogió para Faraón",
+            "Lo repartió"
+        ],
+        "correctAnswer": 2,
+        "difficulty": "extremo",
+        "numberQuestion": 120
+    }
+]
